@@ -40,7 +40,7 @@ To change the address, search the HTML files for `idpx.lfe@ed.tum.de`.
 
 For a project repository named `idpx`, GitHub will normally publish it at:
 
-`https://YOUR-ORG-OR-USERNAME.github.io/idpx/`
+`https://idpx-lfe.github.io/idpx.github.io/`
 
 All internal links use relative paths, so the site works both on a project Pages URL and on a custom domain.
 
