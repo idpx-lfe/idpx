@@ -13,6 +13,12 @@ The images in this directory are optimized WebP copies of media published on the
 | `sticky-donuts.webp` | Sticky Donuts | https://idpx.lfe.ed.tum.de/wp-content/uploads/2025/07/Sticky-Donuts.png |
 | `everclear.webp` | EverClear | https://idpx.lfe.ed.tum.de/wp-content/uploads/2025/07/Magic-Mushrooms.png |
 | `recofill.webp` | RecoFill | https://idpx.lfe.ed.tum.de/wp-content/uploads/2025/07/Recofill.png |
+| `ws25-aylo.webp` | Team AYLO | Provided by the IDP-X team |
+| `ws25-little-signals.webp` | Team LITTLE SIGNALS | Provided by the IDP-X team |
+| `ws25-sherlook.webp` | Team SHERLOOK | Provided by the IDP-X team |
+| `ws25-flow-makers.webp` | Team FLOW MAKERS | Provided by the IDP-X team |
+| `ws25-mavy.webp` | Team MAVY | Provided by the IDP-X team |
+| `ws25-shift-happens.webp` | Team SHIFT HAPPENS | Provided by the IDP-X team |
 
 Archive page: https://idpx.lfe.ed.tum.de/previousprojects/
 
