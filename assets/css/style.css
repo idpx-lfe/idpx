@@ -263,13 +263,6 @@ p { margin: 0 0 1rem; }
   .projects-teaser-gallery img, .projects-teaser-gallery img:nth-child(2) { height: 160px; }
 }
 
-@media (max-width: 760px) {
-  #ss26 .project-grid {
-    grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
-    gap: 14px;
-  }
-}
-
 @media (prefers-reduced-motion: reduce) {
   html { scroll-behavior: auto; }
   *, *::before, *::after { transition-duration: .01ms !important; animation-duration: .01ms !important; animation-iteration-count: 1 !important; }
