@@ -268,3 +268,15 @@ p { margin: 0 0 1rem; }
   *, *::before, *::after { transition-duration: .01ms !important; animation-duration: .01ms !important; animation-iteration-count: 1 !important; }
 }
 
+
+/* Keep Team Wolf in the two-column project grid */
+.project-grid .project-card-feature {
+  grid-column: auto;
+  grid-template-columns: minmax(0, 1fr);
+}
+
+/* Keep the image at a suitable size inside the card */
+.project-grid .project-card-feature .project-media {
+  height: 300px;
+  min-height: 0;
+}
